@@ -1,0 +1,4 @@
+LeapYear.sln/
+obj/
+bin/
+
